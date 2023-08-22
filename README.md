@@ -34,6 +34,8 @@ The steps for this challenge are broken out into the following sections:
 ![Screenshot (35)](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/dec60da2-0ea1-4ade-884b-d0fa40c38a80)
 
 
-![images](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/de6e916f-b427-4641-b30a-e2cd41959616)
+![GettyImages-1357842858_493451_gbmeno](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/6c2faa9a-2823-4e58-aaca-0a85a56401ab)
+
+![14ai-funds-01-kczh-superJumbo](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/2dcf380c-c2cc-42b7-b9ca-b1b96bb6b4fc)
 
 
