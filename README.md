@@ -25,3 +25,11 @@ The steps for this challenge are broken out into the following sections:
 
    
 # 3) Optimize the neural network model
+
+
+![Screenshot (32)](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/f07c1d95-cc16-4e7b-b799-975d245110ed)
+
+![Screenshot (34)](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/a142e617-61e1-453b-802e-fb0a794b3ef6)
+
+![Screenshot (35)](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/dec60da2-0ea1-4ade-884b-d0fa40c38a80)
+
