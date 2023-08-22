@@ -13,5 +13,6 @@ The steps for this challenge are broken out into the following sections:
 
 ![Screenshot (28)](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/d3f409a0-6f50-43e4-8f1e-8a710d8255c0)
   
-3) Compile and evaluate a binary classification model using a neural network
-4) Optimize the neural network model
+2) Compile and evaluate a binary classification model using a neural network
+   
+3) Optimize the neural network model
