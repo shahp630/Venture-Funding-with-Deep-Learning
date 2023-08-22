@@ -33,3 +33,7 @@ The steps for this challenge are broken out into the following sections:
 
 ![Screenshot (35)](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/dec60da2-0ea1-4ade-884b-d0fa40c38a80)
 
+
+![images](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/de6e916f-b427-4641-b30a-e2cd41959616)
+
+
