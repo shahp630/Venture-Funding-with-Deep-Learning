@@ -36,6 +36,11 @@ The steps for this challenge are broken out into the following sections:
 
 ![GettyImages-1357842858_493451_gbmeno](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/6c2faa9a-2823-4e58-aaca-0a85a56401ab)
 
+
+# Results
+
+After analyzing each of the 3 Alternative Models, our evaluation shows that the Alternative Model was the most accurate, at 73.29%, and had the lowest loss at .5493. Although there wasn't a significant difference in accuracy between the 3 models, this could prove to be significant at both a small and large scale for companies.
+
 ![14ai-funds-01-kczh-superJumbo](https://github.com/shahp630/Venture-Funding-with-Deep-Learning/assets/133065460/2dcf380c-c2cc-42b7-b9ca-b1b96bb6b4fc)
 
 
